@@ -1,0 +1,11 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "A demo NPM application",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^3.17.1"
+  }
+}
